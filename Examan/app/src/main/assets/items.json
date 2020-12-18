@@ -1,0 +1,30 @@
+{
+  "items":
+  [
+    {
+      "id": 1,
+      "title": "Fruits",
+      "details": "In common language usage, fruit normally "
+    },
+    {
+      "id": 2,
+      "title": "Juice",
+      "details": "Juice is a drink made from the extraction "
+    },
+    {
+      "id": 3,
+      "title": "Drink",
+      "details": "A drink or beverage is a liquid  "
+    },
+    {
+      "id": 4,
+      "title": "Cake",
+      "details": "Cake is a form of sweet food made from flour"
+    },
+    {
+      "id": 5,
+      "title": "Food",
+      "details": "Food is any substance consumed"
+    }
+  ]
+}
